@@ -1,25 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.tenor.com/5oFST37brb0AAAAj/tech-computer.gif" width="100"/>
 </div>
-
-
 <p align="center">
- Hi there 👋
+  <strong><font size="5">Hi there 👋</font></strong>
 </p>
-
-
-
-<!--
-**LenaP1010/LenaP1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
