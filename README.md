@@ -1,4 +1,13 @@
-## Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.tenor.com/5oFST37brb0AAAAj/tech-computer.gif" width="100"/>
+</div>
+
+
+<p align="center">
+ Hi there 👋
+</p>
+
+
 
 <!--
 **LenaP1010/LenaP1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
