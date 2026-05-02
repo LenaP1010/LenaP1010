@@ -2,7 +2,7 @@
   <img src="https://media.tenor.com/5oFST37brb0AAAAj/tech-computer.gif" width="100"/>
 </div>
 <p align="center">
-  <strong><font size="5">Hi there ☀️</strong>
+  <strong><font size="5">Hi there :hibiscus:</strong>
 </p>
 
 I'm Elena, a Systems Analyst and Data Scientist in Machine Learning.
